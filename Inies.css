@@ -1,0 +1,17 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+button {
+	width: 80%
+}
+
+#boxcamara {
+	position: relative;
+	top: -40x;
+	border-radius: 20px; 
+}
+
